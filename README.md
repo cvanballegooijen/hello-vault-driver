@@ -5,7 +5,7 @@ Runnable examples of how to integrate a Java Spring Boot application with
 
 ## Introduction
 
-This is a simple SringBoot application example using vault-java-driver of reading and writing your first secret!
+This is a simple SpringBoot application example using vault-java-driver of reading and writing your first secret!
 
 ## Prerequisites
 - Java JDK installed
