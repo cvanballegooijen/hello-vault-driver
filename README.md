@@ -1,5 +1,5 @@
 # hello-vault-driver
-Runnable examples of how to integrate a Java Spring Boot application with
+Runnable example of how to integrate a Java Spring Boot application with
 [HashiCorp](http://www.hashicorp.com) [Vault](https://www.vaultproject.io/), using the community-maintained
 [Vault Java Driver](https://github.com/BetterCloud/vault-java-driver) library.
 
