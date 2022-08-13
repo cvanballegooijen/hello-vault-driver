@@ -31,7 +31,7 @@ Set the following environment variables:
 - [Apache Maven 3.8.6](http://maven.apache.org)
 - [OpenJDK 18.0.2](https://jdk.java.net/18/)
 
-## Steps
+## Workflow
 ```mermaid
 journey
     title Create SpringBoot application with vault-java-driver
