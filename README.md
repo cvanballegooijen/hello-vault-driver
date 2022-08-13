@@ -23,9 +23,21 @@ Set the following environment variables:
 - VAULT_NAMESPACE
 
 ## Tested prerequisites
+- [Vault OSS](https://vaultproject.io)
 - [HCP Vault](https://cloud.hashicorp.com/products/vault)
 - [Apache Maven 3.8.6](http://maven.apache.org)
 - [OpenJDK 18.0.2](https://jdk.java.net/18/)
+
+## Steps
+```mermaid
+journey
+    title Create SpringBoot application with vault-java-driver
+    section Steps
+      Set up prerequisites: 5
+      Set up environment variables: 5
+      Build app with maven: 5
+      Run app with java cmd: 5
+```
 
 ## Building the app
 `$ mvn clean install -DskipTests`
