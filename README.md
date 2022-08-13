@@ -18,9 +18,12 @@ and access to one of the following Vault environments
 
 Set the following environment variables:
 
-- VAULT_ADDR 
-- VAULT_TOKEN
-- VAULT_NAMESPACE
+| Environment variable | Default value      |
+|-----|---|
+|  VAULT_ADDR   |  http://127.0.0.1:8200 |
+|  VAULT_TOKEN   | root  |
+|  VAULT_NAMESPACE   | admin  |
+
 
 ## Tested prerequisites
 - [Vault OSS](https://vaultproject.io)
