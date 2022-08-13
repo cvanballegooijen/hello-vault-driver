@@ -38,9 +38,19 @@ journey
     section Steps
       Set up prerequisites: 5: You
       Set up environment variables: 5: You
+      Vault Server up and running: 5: You
+      Enable kv secrets engine:5: You
       Build app with maven: 5: You
       Run app with java cmd: 5: You
 ```
+
+### Vault server up and running (not applicable to HCP Vault)
+
+`$ vault server -dev -dev-root-token-id=root`
+
+## Enable kv secrets engine using CLI
+
+`$ vault secrets enable kv`
 
 ## Building the app
 `$ mvn clean install -DskipTests`
