@@ -44,7 +44,7 @@ journey
       Run app with java cmd: 5: You
 ```
 
-### Vault server up and running (not applicable to HCP Vault)
+## Vault server up and running (not applicable to HCP Vault)
 
 `$ vault server -dev -dev-root-token-id=root`
 
