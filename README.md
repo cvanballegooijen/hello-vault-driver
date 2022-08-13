@@ -36,10 +36,10 @@ Set the following environment variables:
 journey
     title Create SpringBoot application with vault-java-driver
     section Steps
-      Set up prerequisites: 5
-      Set up environment variables: 5
-      Build app with maven: 5
-      Run app with java cmd: 5
+      Set up prerequisites: 5: You
+      Set up environment variables: 5: You
+      Build app with maven: 5: You
+      Run app with java cmd: 5: You
 ```
 
 ## Building the app
